@@ -22,3 +22,9 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :zap: In my free time, I solve problems on Kaggle and read tech articles.
 
 - :woman_dancing: Histirical danses is my hobby.
+
+---
+
+### :books: My Education :
+| Z
+##
