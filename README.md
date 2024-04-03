@@ -24,15 +24,35 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 - :woman_dancing: Histirical danses is my hobby.
 
 ---
+### :100: My Scills :
+- Python, Pandas, Matplotlib, NumPy, Seaborn
+- SQL
+- Scikit-learn, Keras, TensorFlow, Lightgbm, Sklearn  
+- Machine Learning, Data Analysis, Big Data
+---
 
 ### :books: My Education :
 
 | Year | institution | name |
 | --- | --- | ---|
-| 2024 | Yandex.Practicum | Professional Training Cource 'Data Scientist'|
+| 2024 | Yandex.Practicum | Professional Training Cource "Data Scientist"|
 | 2024 | Samsung Russia Open Education | Neural network and computer vision |
 | 2024 | Samsung Russia Open Education | Neural network and text processing |
 | 2024 | Karpov.Courses | Mathematics for Data Science |
+| 2023 | BEEGEEK | Python generation: advanced course |
+| 2023 | Karpov.Courses | Fundamentals of statistics |
+| 2023 | Chelyabinsk State University | Graduate school. Jurisprudence |
+| 2015 | Ural State Law University | Lawyer |
+
+---
+
+### :open_book: My Projects :
+
+| Name | Specification | Scills | Link |
+| --- | --- | --- | --- |
+| Multi-class classification of posters | Training a machine learning model for multiclass classification of images (posters). The model learned to divide movie posters by genre with a good metric for sampling.| Keras, TensorFlow | |
+
+
 
 
 
