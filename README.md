@@ -41,7 +41,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 | 2024 | Karpov.Courses | Mathematics for Data Science |
 | 2023 | BEEGEEK | Python generation: advanced course |
 | 2023 | Karpov.Courses | Fundamentals of statistics |
-| 2023 | Chelyabinsk State University | Graduate school. Jurisprudence |
+| 2023 | Chelyabinsk State University | Graduate school in law |
 | 2015 | Ural State Law University | Lawyer |
 
 ---
