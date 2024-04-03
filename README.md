@@ -50,7 +50,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 | Name | Specification | Scills | Link |
 | --- | --- | --- | --- |
-| Multi-class classification of posters | Training a machine learning model for multiclass classification of images (posters). The model learned to divide movie posters by genre with a good metric for sampling.| Keras, TensorFlow | |
+| Multi-class classification of posters | Training a machine learning model for multiclass classification of images (posters). The model learned to divide movie posters by genre with a good metric for sampling.| Keras, TensorFlow | [link](https://github.com/AnnaPakir/Multiclass-classification-of-posters/blob/main/Posters.ipynb) |
 
 
 
