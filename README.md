@@ -27,7 +27,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :100: My Scills :
 - Python, Pandas, Matplotlib, NumPy, Seaborn
 - SQL
-- Scikit-learn, Keras, TensorFlow, Lightgbm, Sklearn  
+- Scikit-learn, Keras, TensorFlow, Lightgbm, Sklearn, Cpacy  
 - Machine Learning, Data Analysis, Big Data
 ---
 
@@ -58,6 +58,8 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 | Name | Specification | Scills | Link |
 | --- | --- | --- | --- |
-| Forecasting taxi orders | Using time series processing tools, create a machine learning model that allows you to determine the number of taxi cars needed to serve customers. | lightgbm, statsmodels, sklearn, matplotlib | [link](https://github.com/AnnaPakir/Taxi-order-forecasting/blob/main/Taxi.ipynb) |
+| Forecasting taxi orders | Using time series processing tools, create a machine learning model that allows you to determine the number of taxi cars needed to serve customers. | Lightgbm, Statsmodels, Sklearn, Matplotlib | [link](https://github.com/AnnaPakir/Taxi-order-forecasting/blob/main/Taxi.ipynb) |
+| Toxocity test | With the help of text processing tools, a machine learning model has been created that classifies comments by toxicity.| Cpacy, sklearn | [link](https://github.com/AnnaPakir/toxicity-test/blob/main/Toxid.ipynb)|
+
 
 
