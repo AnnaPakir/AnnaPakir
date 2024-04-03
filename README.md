@@ -21,10 +21,10 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 - :zap: In my free time, I solve problems on Kaggle and read tech articles.
 
-- :woman_dancing: Histirical danses is my hobby.
+- :woman_dancing: My hobby histirical danse.
 
 ---
-### :100: My Scills :
+### :100: My Skills :
 - Python, Pandas, Matplotlib, NumPy, Seaborn
 - SQL
 - Scikit-learn, Keras, TensorFlow, Lightgbm, Sklearn, Cpacy  
@@ -48,7 +48,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 ### :open_book: My Projects :
 
-| Name | Specification | Scills | Link |
+| Name | Specification | Skills | Link |
 | --- | --- | --- | --- |
 | Multi-class classification of posters | Training a machine learning model for multiclass classification of images (posters). The model learned to divide movie posters by genre with a good metric for sampling.| Keras, TensorFlow | [link](https://github.com/AnnaPakir/Multiclass-classification-of-posters/blob/main/Posters.ipynb) |
 
