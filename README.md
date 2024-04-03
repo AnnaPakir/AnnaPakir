@@ -52,7 +52,12 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 | --- | --- | --- | --- |
 | Multi-class classification of posters | Training a machine learning model for multiclass classification of images (posters). The model learned to divide movie posters by genre with a good metric for sampling.| Keras, TensorFlow | [link](https://github.com/AnnaPakir/Multiclass-classification-of-posters/blob/main/Posters.ipynb) |
 
+---
 
+### :book: My Educational Projects :
 
+| Name | Specification | Scills | Link |
+| --- | --- | --- | --- |
+| Forecasting taxi orders | Using time series processing tools, create a machine learning model that allows you to determine the number of taxi cars needed to serve customers. | lightgbm, statsmodels, sklearn, matplotlib | [link](https://github.com/AnnaPakir/Taxi-order-forecasting/blob/main/Taxi.ipynb) |
 
 
