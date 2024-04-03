@@ -26,5 +26,13 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ---
 
 ### :books: My Education :
-| Z
-##
+
+| Year | institution | name |
+| --- | --- | ---|
+| 2024 | Yandex.Practicum | Professional Training Cource 'Data Scientist'|
+| 2024 | Samsung Russia Open Education | Neural network and computer vision |
+| 2024 | Samsung Russia Open Education | Neural network and text processing |
+| 2024 | Karpov.Courses | Mathematics for Data Science |
+
+
+
