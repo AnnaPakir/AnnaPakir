@@ -7,7 +7,7 @@ Hi, I'm Anna,
   <a href="https://www.kaggle.com/matveevaanna">
     <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://t.me/@Anna_pakir">
+  <a href="https://t.me/Anna_pakir">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
  
