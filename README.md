@@ -27,7 +27,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 ### :100: My Skills :
 - Python, Pandas, Matplotlib, NumPy, Seaborn
 - SQL
-- Scikit-learn, Keras, TensorFlow, Lightgbm, Sklearn, Spacy  
+- Scikit-learn, Keras, TensorFlow, Lightgbm, Sklearn, Spacy, PyTorch  
 - Machine Learning, Data Analysis, Big Data
 ---
 
