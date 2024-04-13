@@ -11,7 +11,7 @@ Hi, I'm Anna,
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://stepik.org/users/626120824">
-    <img src="https://img.shields.io/badge/Stepic-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/stepic-blue?style=for-the-badge&logo=stepic&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
