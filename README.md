@@ -52,6 +52,7 @@ I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW
 
 | Name | Specification | Skills | Link |
 | --- | --- | --- | --- |
+| --- | --- | re, phik, sklearn, lightgbm, pickle, streamlit | 
 | Determining the genre of a music album | Creating a machine learning model for multi-class classification of music album covers by genre. | matplotlib, torch, fiass, fastai | [link](https://github.com/AnnaPakir/cover_music/blob/main/README.md) |
 | Multi-class classification of posters | Training a machine learning model for multiclass classification of images (posters). The model learned to divide movie posters by genre with a good metric for sampling.| Keras, TensorFlow | [link](https://github.com/AnnaPakir/Multiclass-classification-of-posters/blob/main/Posters.ipynb) |
 
