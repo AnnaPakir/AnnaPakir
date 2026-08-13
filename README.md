@@ -1,69 +1,47 @@
-Hi, I'm Anna,
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+<h1 align="center">Hi, I'm Anna Matveeva</h1>
+<h3 align="center">Applied ML & MLOps Engineer</h3>
 
-<div id="badges">
-  <a href="https://www.kaggle.com/matveevaanna">
-    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="LinkedIn Badge"/>
+<div align="center">
+  <a href="www.linkedin.com/in/anna-matveeva-9ab374317">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://t.me/Anna_pakir">
-    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
   </a>
-  <a href="https://stepik.org/users/626120824">
-    <img src="https://img.shields.io/badge/stepic-blue?style=for-the-badge&logo=stepic&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://www.kaggle.com/matveevaanna">
+    <img src="https://img.shields.io/badge/Kaggle-blue?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
 </div>
 
 ---
 
-### :woman_technologist: About Me :
-I am a Data Scientist <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
-- :woman_student: I'm learning programming.
+### 👩‍💻 About Me
 
-- :zap: In my free time, I solve problems on Kaggle and read tech articles.
-
-- :woman_dancing: My hobby is histirical danse.
-
----
-### :100: My Skills :
-- Python, Pandas, Matplotlib, NumPy, Seaborn, Re
-- SQL
-- Scikit-learn, Keras, TensorFlow, Lightgbm, Sklearn, Spacy, PyTorch, Torch, Faiss, Fastai  
-- Machine Learning, Data Analysis, Big Data
----
-
-### :books: My Education :
-
-| Year | institution | name |
-| --- | --- | ---|
-| 2024 | Yandex.Practicum | Professional Training Cource "Data Scientist"|
-| 2024 | Samsung Russia Open Education | Neural network and computer vision |
-| 2024 | Samsung Russia Open Education | Neural network and text processing |
-| 2024 | Karpov.Courses | Mathematics for Data Science |
-| 2023 | BEEGEEK | Python generation: advanced course |
-| 2023 | Karpov.Courses | Fundamentals of statistics |
-| 2023 | Chelyabinsk State University | Graduate school in law |
-| 2015 | Ural State Law University | Lawyer |
+* 🔹 **Background:** Transitioned into AI Engineering after a decade of independent professional law practice and postgraduate legal research. This foundation provided me with exceptional systems analysis skills and the ability to build strict logic for processing complex, unstructured data.
+* 🔹 **Current Focus:** Implementing MLOps practices and developing end-to-end data pipelines. I specialize in building custom RAG architectures, designing GPU resource dispatchers for heavy models, and database integration. I prioritize creating clean, scalable solutions from scratch, maintaining direct control over the architecture.
 
 ---
 
-### :open_book: My Projects :
+### 🛠️ Tech Stack
 
-| Name | Specification | Skills | Link |
-| --- | --- | --- | --- |
-| Determining the cost of cars | Creating a machine learning model to determine the cost of cars by VIN code, as well as creating an application for running the model on Streamlit. | re, phik, sklearn, lightgbm, streamlit | [link](https://github.com/AnnaPakir/car_price/blob/main/README.md)
-| Determining the genre of a music album | Creating a machine learning model for multi-class classification of music album covers by genre. | matplotlib, torch, fiass, fastai | [link](https://github.com/AnnaPakir/cover_music/blob/main/README.md) |
-| Multi-class classification of posters | Training a machine learning model for multiclass classification of images (posters). The model learned to divide movie posters by genre with a good metric for sampling.| Keras, TensorFlow | [link](https://github.com/AnnaPakir/Multiclass-classification-of-posters/blob/main/Posters.ipynb) |
+* **MLOps & Backend:** FastAPI, Docker, PostgreSQL, Linux, Git
+* **Machine Learning & AI:** Python, PyTorch, LLM Orchestration, Custom RAG Systems, Graph Databases (GraphRAG)
+* **Data Engineering:** Workflow automation (n8n), Data Integration & Web Scraping
 
 ---
 
-### :book: My Educational Projects :
+### 📚 Education & Academic Background
 
-| Name | Specification | Scills | Link |
-| --- | --- | --- | --- |
-| Forecasting taxi orders | Using time series processing tools, create a machine learning model that allows you to determine the number of taxi cars needed to serve customers. | Lightgbm, Statsmodels, Sklearn, Matplotlib | [link](https://github.com/AnnaPakir/Taxi-order-forecasting/blob/main/Taxi.ipynb) |
-| Toxicity test | With the help of text processing tools, a machine learning model has been created that classifies comments by toxicity.| Spacy, sklearn | [link](https://github.com/AnnaPakir/toxicity-test/blob/main/Toxid.ipynb)|
+* 🎓 **M.S. in Applied Mathematics and Informatics** — South Ural State University *(Focus: AI Technologies and Methods)*
+* 🎓 **Postgraduate Studies (Ph.D. program level), Law**
+* 🎓 **Data Science Specialist** — Professional Retraining
+* 🎓 **Specialist Degree, Law**
+
+---
+
+### 📌 Featured Projects
+
+*I am currently updating my public repositories to reflect my recent work in MLOps, LLM orchestration, and backend architecture. The updated projects featuring end-to-end deployment will be pinned here soon!*
 
 
 
