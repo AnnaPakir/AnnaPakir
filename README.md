@@ -25,7 +25,7 @@
 ### 🛠️ Tech Stack
 
 * **MLOps & Backend:** FastAPI, Docker, PostgreSQL, Linux, Git
-* **Machine Learning & AI:** Python, PyTorch, LLM Orchestration, Custom RAG Systems, Graph Databases (GraphRAG)
+* **Machine Learning & AI:** Python, PyTorch, TensorFlow, Keras, LLM Orchestration, Custom RAG Systems, Graph Databases (GraphRAG)
 * **Data Engineering:** Workflow automation (n8n), Data Integration & Web Scraping
 
 ---
